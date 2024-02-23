@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <RootNamespace>SA_Summary_Api</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="Sa.Api.Core" Version="1.0.13" />
+
+  </ItemGroup>
+
+</Project>
